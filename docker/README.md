@@ -1,0 +1,1 @@
+docker-compose up in the folder you need

@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring-batch-safaribooks
+    username: root
+    password: password
+  batch:
+    initialize-schema: always
+    job.names: remote-paritioning-demo-job-5
